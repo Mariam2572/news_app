@@ -1,3 +1,5 @@
 {
-    "app_title":"الأخبار"
+    "app_title":"الأخبار",
+    "category_options" : "اختر فئة \nاهتمامك"
+
 }
