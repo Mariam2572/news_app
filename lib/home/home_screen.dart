@@ -1,12 +1,6 @@
 // ignore_for_file: unused_import
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:news_app/Category/category_details.dart';
-import 'package:news_app/Category/category_fragment.dart';
-import 'package:news_app/Drawer/home_drawer.dart';
-import 'package:news_app/Search/search_screen.dart';
-import 'package:news_app/model/category_dm.dart';
-import 'package:news_app/model/news_response.dart';
 import 'package:news_app/mytheme.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:news_app/settings/settings_tab.dart';
